@@ -1,0 +1,53 @@
+body{
+    background-color: linen;
+    padding: 20px;
+}
+
+*{
+    padding: 0;
+    margin: 0;
+}
+
+h1{
+    text-align: center;
+    padding: 15px 0;
+}
+h3{
+    padding-top: 10px;
+}
+
+ul{
+    padding: 20px;
+}
+
+form{
+    /* width: 100vw; */
+    height: auto;
+}
+button{
+    padding: 5px 10px;
+    background:lightgreen;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    align-self: center;
+}
+.news{
+    width: 80vw;
+    margin: auto;
+    text-align: center;
+}
+
+.news form{
+    box-shadow: 2px -2px 4px 1px rgba(0,0,0,0.4);
+    padding: 20px;
+    border-radius: 10px;
+    margin:10px auto;
+    width: 300px;
+}
+button{
+    margin-top: 20px;
+}
+input{
+    margin-top: 10px;
+}
